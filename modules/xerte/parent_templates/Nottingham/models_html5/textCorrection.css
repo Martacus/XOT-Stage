@@ -1,0 +1,24 @@
+#textHolder {
+    margin-bottom:	10px;
+}
+
+#question {
+    padding-bottom: 10px;
+}
+
+#text {
+    width: 95%;
+}
+
+#checkButton {
+	margin: 10px 0 10px 10px;
+	float: right;
+}
+
+#attempts, #correctOrNot, #answer, #FurtherClarification {
+	padding-top: 1em;
+	clear: both;
+}
+#mainPanel {
+	overflow: auto;
+}
